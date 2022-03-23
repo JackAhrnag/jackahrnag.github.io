@@ -5,7 +5,7 @@ url: https://jackahrnag.github.io
 avatar: /yak.png
 paginate: 5
 permalink: pretty
-cover_image: /bg.jpeg
+cover_image: /bgbg.jpg
 
 # Gems
 plugins:
@@ -54,6 +54,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: 김현승
+  url: https://github.com/JackAhrnag/jackahrnag.github.io
+  email: gusehfdl56@gmail.com
